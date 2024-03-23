@@ -184,34 +184,6 @@
         "https://cdn.dummyjson.com/product-images/19/3.png",
         "https://cdn.dummyjson.com/product-images/19/thumbnail.jpg"
       ]
-    },
-    {
-      "0": {
-        "id": "10",
-        "rating": "",
-        "brand": "",
-        "price": "",
-        "stock": ""
-      },
-      "id": "dbd4",
-      "rating": "12",
-      "brand": "asd",
-      "price": "213",
-      "stock": "123"
-    },
-    {
-      "0": {
-        "id": "10",
-        "rating": "",
-        "brand": "",
-        "price": "",
-        "stock": ""
-      },
-      "id": "e562",
-      "rating": "123",
-      "brand": "asd2",
-      "price": "1332",
-      "stock": "123"
     }
   ]
 }

@@ -124,11 +124,11 @@ const Home = () => {
               {panel.length > 0 && (
                 <tbody>
                   {panel
-                    // .filter((panel) =>
-                    //   panel.brand
-                    //     .toLowerCase()
-                    //     .includes(searchTerm.toLowerCase())
-                    // )
+                    .filter((panel) =>
+                      panel.brand
+                        .toLowerCase()
+                        .includes(searchTerm.toLowerCase())
+                    )
                     .map((panel) => (
                       <>
                         <tr>
