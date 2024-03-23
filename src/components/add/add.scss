@@ -1,0 +1,27 @@
+.main {
+  display: grid;
+  place-items: center;
+  margin-top: 40px;
+  form {
+    .input_group {
+      display: flex;
+      flex-direction: column;
+      padding-bottom: 40px;
+      input {
+        max-width: 800px;
+        min-width: 200px;
+        width: 700px;
+      }
+      label {
+        padding-bottom: 6px;
+        padding-top: 18px;
+        cursor: pointer;
+      }
+    }
+    .btns {
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+    }
+  }
+}

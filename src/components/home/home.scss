@@ -1,0 +1,13 @@
+.for_bg {
+  background-color: #ccc;
+  display: grid;
+  place-items: center;
+  min-height: 688px;
+  content {
+    margin-left: 150px;
+    max-width: 1300px;
+    width: 90%;
+    border-radius: 12px;
+    overflow: hidden;
+  }
+}
